@@ -1,9 +1,5 @@
 # LLM-Audit-Customer-Service-Calls
 
-Thanks for the notebook and context! Based on your project description and the content from your Jupyter notebook, here’s a clean and informative `README.md` file you can use for your GitHub repository:
-
----
-
 # 🎧 AI-Powered Customer Service Call Auditor
 
 This project implements an AI-driven solution for auditing customer service calls. It combines cutting-edge speech recognition with advanced language model analysis to evaluate customer service quality efficiently and effectively.
